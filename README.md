@@ -17,3 +17,24 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrinacalamari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+### Contatos
+
+<div>
+  <a href="https://www.instagram.com/calamarisabrina/?next=%2F">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabrina-calamari-143996243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+    
