@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning SQL Server
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" widtd="60"/>
 </div>
