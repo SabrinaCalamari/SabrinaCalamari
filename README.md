@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://github.com/nesantana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina Calamari&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrina Calamari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinacalamari&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrinacalamari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
